@@ -1,0 +1,8 @@
+Model,Accuracy,ROC_AUC,Precision,Recall,F1_Score
+Random Forest,1.0,1.0,1.0,1.0,1.0
+XGBoost,0.98,1.0,1.0,0.96,0.9795918367346939
+Gradient Boosting,1.0,1.0,1.0,1.0,1.0
+Extra Trees,1.0,1.0,1.0,1.0,1.0
+Logistic Regression,1.0,1.0,1.0,1.0,1.0
+Voting Ensemble,1.0,1.0,1.0,1.0,1.0
+Stacking Ensemble,1.0,1.0,1.0,1.0,1.0
